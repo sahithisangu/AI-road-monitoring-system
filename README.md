@@ -11,7 +11,7 @@ Road damage, especially potholes, can create safety risks for commuters and affe
 
 This project explores the use of Artificial Intelligence and Computer Vision to identify potholes from road images and video footage, helping make road monitoring more efficient.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Detect potholes using AI-based object detection.
 - Analyse road images and video footage.
@@ -46,18 +46,18 @@ As a member of the project team, I contributed to:
 - Contributing to map-based visualisation using Leaflet.js and OpenStreetMap.
 - Collaborating with teammates on the overall solution.
 
-## 🏆 Hackathon Recognition
+##  Hackathon Recognition
 
 Our team was selected for the **National-level stage of Smart India Hackathon 2026**.
 
-## 🔮 Future Scope
+##  Future Scope
 
 - Improve detection accuracy in different lighting and weather conditions.
 - Extend detection to multiple types of road damage.
 - Explore real-time road monitoring.
 - Enhance location-based reporting and analytics.
 
-## 📂 Repository Note
+##  Repository Note
 
 This repository currently contains project documentation. The original project source code is not available here.
 
